@@ -1,0 +1,2 @@
+# manai
+monitor
